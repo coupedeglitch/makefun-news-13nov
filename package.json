@@ -1,0 +1,11 @@
+{
+  "name": "makefun-news-13nov",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun news-image-01 entry: one image summing up the world news of Friday 13 November 2026.",
+  "scripts": {
+    "run": "node main.ts"
+  },
+  "license": "MIT"
+}
